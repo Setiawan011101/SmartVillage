@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Smart Village</string>
+    <string name="fragment_first">Welcome</string>
+    <string name="MainActivity">SMART VILLAGE</string>
+    <string name="input_nama">Masukkan Nama</string>
+    <string name="input_nik">Masukkan NIK</string>
+    <string name="btn_to_main_activity">Masuk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">BERITA</string>
+    <string name="Pengaduan">Pengaduan</string>
+
+    <string-array name="judul">
+        <item>Judul 1</item>
+        <item>Judul 2</item>
+        <item>Judul 3</item>
+        <item>Judul 4</item>
+        <item>Judul 5</item>
+        <item>Judul 6</item>
+        <item>Judul 7</item>
+        <item>Judul 8</item>
+        <item>Judul 9</item>
+        <item>Judul 10</item>
+    </string-array>
+
+    <string-array name="tanggal_upload">
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+        <item>"12 Agustus 2011"</item>
+    </string-array>
+</resources>
